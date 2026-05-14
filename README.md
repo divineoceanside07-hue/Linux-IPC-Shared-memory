@@ -122,7 +122,6 @@ int main() {
 
 
 ## OUTPUT
-![Alt text](image.png)
-
+![Alt text](6.png)
 # RESULT:
 The program is executed successfully.
