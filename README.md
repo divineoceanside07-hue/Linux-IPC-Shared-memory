@@ -122,6 +122,7 @@ int main() {
 
 
 ## OUTPUT
-![Alt text](6.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3fa80675-4b02-4239-b038-2a6ad817e4f9" />
+
 # RESULT:
 The program is executed successfully.
